@@ -1,0 +1,14 @@
+6
+yogurt
+mango
+spinach
+kiwi
+Whey
+strawberry
+2
+3 3 2 4 1 5 1
+3 0 2 1 1 2 2
+2
+2 0 15 1 28
+1 0 18
+//(ratio*order units)/(total units)
